@@ -1,1 +1,1 @@
-# URI Online Judge Programming With PHP
+# URI-Online-Judge-PHP
